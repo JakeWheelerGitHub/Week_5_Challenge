@@ -1,0 +1,49 @@
+ 1002  conda activate dev
+ 1003  pwd
+ 1004  cd .
+ 1005  cd ..
+ 1006  pwd
+ 1007  git clone git@github.com:JakeWheelerGitHub/Week_5_Challenge.git
+ 1008  pwd
+ 1009  cd Week_5_Challenge
+ 1010  git add .
+ 1011  git status
+ 1012  git init
+ 1013  git add .
+ 1014  git status
+ 1015  git commit -m "Part 1 complete"
+ 1016  git push
+ 1017  git init
+ 1018  git add .
+ 1019  git commit -m "Evaluate stock/bonds complete"
+ 1020  git push
+ 1021  git status
+ 1022  pwd
+ 1023  git status
+ 1024  git init
+ 1025  git add .
+ 1026  git commit -m "Evaluate stocks/bonds complete"
+ 1027  git push
+ 1028  git init
+ 1029  git add .
+ 1030  git status
+ 1031  git status
+ 1032  git commit -m "Part 1 Complete+\ngit commit -m "Part 1 Complete"\nconda activate dev\n"
+ 1033  git commit -m "Part 1 Complete"
+ 1034  git init
+ 1035  git add .
+ 1036  git status
+ 1037  git commit -m "Part 1 Complete"
+ 1038  git push
+ 1039  git inint
+ 1040  git init
+ 1041  git add .
+ 1042  git status
+ 1043  git commit -m "Coding complete"
+ 1044  git push
+ 1045  history 50 > terminal_history.txt\n
+ 1046  git init
+ 1047  git add .
+ 1048  git status
+ 1049  git commit "added readme"
+ 1050  git push
